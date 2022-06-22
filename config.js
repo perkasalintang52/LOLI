@@ -26,22 +26,22 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285701863281'] //ganti jadi nomor lu
-global.premium = ['6285701863281'] //nomornya samain kaya yg di atas
-global.packname = 'ZennBot MD' //ganti aja sesuai keinginan lu
-global.author = 'Zenix MD' //ganti aja
-global.sessionName = 'lolibot' //ini buat nama session terserah mau ganti apa nggk
-global.prefa = ['','!','.','🐦','🐤','🗿']
+global.owner = ['6281322577123'] //ganti jadi nomor lu
+global.premium = ['6281322577123'] //nomornya samain kaya yg di atas
+global.packname = 'Lintang Bot' //ganti aja sesuai keinginan lu
+global.author = 'Lintang Bot' //ganti aja
+global.sessionName = 'Lintang Bot' //ini buat nama session terserah mau ganti apa nggk
+global.prefa = ['']
 global.sp = '⭔'
 global.mess = {
     success: '✓ Success',
-    admin: 'Fitur Khusus Admin Group!',
-    botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
+    admin: 'Emang Lu Admin Group Tod!!!',
+    botAdmin: 'Jadiin Admin Dulu Tod!!!',
     eror: 'Yah Eror kak',
-    owner: 'Fitur Khusus Owner Bot',
-    group: 'Fitur Digunakan Hanya Untuk Group!',
-    private: 'Fitur Digunakan Hanya Untuk Private Chat!',
-    bot: 'Fitur Khusus Pengguna Nomor Bot',
+    owner: 'Emang Lu Ownernya Tod!!!',
+    group: 'Digunakan Hanya Untuk Group Tod!!!',
+    private: 'Digunakan Hanya Untuk Private Chat Tod!!!',
+    bot: 'Khusus Pengguna Nomor Bot Tod!!!',
     wait: 'Loading...',
     endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
 }
